@@ -19,3 +19,33 @@ OK now that you'll be able to get a quick overview and visual understanding of h
 If you continually observe what other designers or sites are doing for their wireframes, you will slowly get a picture in your mind of how a wireframe helps to organize information for the screen. 
 ###Every day life 
 can also be a great source inspiration so keep this in mind when mapping out your page.
+
+>#Step 2: Process
+
+You have to find the process that brings out your own strengths and you are most comfortable with. ![example of a diagram showing several typical processes:](
+
+
+---
+Step 3: Tools
+---
+
+
+
+---
+Step 4: Grid
+---
+
+---
+Step 5: Layout
+---
+---
+Step 6: Defeniton & Typography
+---
+
+---
+Grey scale Prototype?
+---
+
+---
+
+---
